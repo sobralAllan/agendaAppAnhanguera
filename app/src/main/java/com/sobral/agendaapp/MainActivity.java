@@ -12,13 +12,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
+import com.google.firebase.firestore.FirebaseFirestore;//Importar o link com o firebase
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
+    FirebaseFirestore db = FirebaseFirestore.getInstance();
     public EditText codigo;
     public EditText assunto;
     public EditText data;
@@ -108,6 +109,8 @@ public class MainActivity extends AppCompatActivity {
                 Log.e("Firebase", "Erro", e);});
         }
     }//fim do cadastrar
+
+
 
 
 

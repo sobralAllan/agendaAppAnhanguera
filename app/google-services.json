@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164307930239",
+    "project_id": "agendaapp-f52ec",
+    "storage_bucket": "agendaapp-f52ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164307930239:android:3d7986ad6ec0a970db834a",
+        "android_client_info": {
+          "package_name": "com.sobral.agenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yBlQ9nkmkUUjszQshVd4rgCH6xPE3WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164307930239:android:3189a141907f6a26db834a",
+        "android_client_info": {
+          "package_name": "com.sobral.agendaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yBlQ9nkmkUUjszQshVd4rgCH6xPE3WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
