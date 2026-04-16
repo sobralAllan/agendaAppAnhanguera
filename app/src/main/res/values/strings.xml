@@ -6,4 +6,7 @@
     <string name="labelData">Data</string>
     <string name="labelDescricao">Descrição</string>
     <string name="botaoInserir">Inserir</string>
+    <string name="bemVindo">Bem Vindo!!!</string>
+    <string name="botaoCadastrar">Cadastrar</string>
+    <string name="botaoConsultar">Consultar</string>
 </resources>
