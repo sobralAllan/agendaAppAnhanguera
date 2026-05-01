@@ -9,4 +9,6 @@
     <string name="bemVindo">Bem Vindo!!!</string>
     <string name="botaoCadastrar">Cadastrar</string>
     <string name="botaoConsultar">Consultar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
 </resources>

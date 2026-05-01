@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class Registro {
     //Declarando Variáveis
+    private int id;
     private int codigo;
     private String assunto;
     private Date dataEvento;
@@ -24,6 +25,13 @@ public class Registro {
         this.descricao  = descricao;
     }//fim do método
 
+    public int getId(){
+        return this.id;
+    }//fim do getId
+
+    public void setId(int id){
+        this.id = id;
+    }//fim do setId
     //métodos gets e sets
     public int getCodigo(){
         return this.codigo;
